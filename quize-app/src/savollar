@@ -1,0 +1,22 @@
+[
+    {
+        "title": "HTMl dasturlash tilimi? ",
+        "options": ["Yo'q " , "Ha HTML dasturlash tili" , "Bu css ning turi"],
+        "correctOptionIndex": "0"
+    },
+    { 
+       "title":"Css nima",
+       "options": ["Dasturlash tili" , "Verstkachi" , "Javascript frame"],
+       "correctOptionIndex": "1"
+    },
+    {
+       "title": "Frontend va Backend bu?",
+       "options": ["Python development" , "Dastur yasovchisi" , "Web Development"],
+       "correctOptionIndex": "2"
+    },
+    {
+        "title": "React nima",
+        "options": ["JavasCript framework" , "Htlm kod" , "Togri javob yo'q"],
+        "correctOptionIndex": "0"
+    }
+]
